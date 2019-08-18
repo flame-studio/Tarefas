@@ -1,4 +1,4 @@
-# Tasks
+# Tarefas
 Aplicativo para gerenciamento de tarefas feito com React Native.
 
 * **Screenshots**
